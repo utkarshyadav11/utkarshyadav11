@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm  Utkarsh yadav</h1>
 <h3 align="center">I'm a FRONTEND DEVELOPER.</h3>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=utkarshyadav11&style=flat-square"></p>
 
 ## 🙋‍♂️ About Me
 
@@ -22,7 +23,7 @@
 <img src="https://github.com/utkarshyadav11/utkarsh-yadav/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </center>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=utkarshyadav11&style=flat-square"></p>
+
 
 ---
 
