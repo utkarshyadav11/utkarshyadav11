@@ -71,6 +71,7 @@
 <a href="https://github.com/utkarshyadav11/github-readme-activity-graph"><img alt="utkarsh yadav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=utkarshyadav11&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
+<a href="username=utkarshyadav11&bg_color=000000&color=7a0b73&line=f245e7&point=ffffff&area=true&hide_border=truehttps://github.com/ashutosh00710/github-readme-activity-graph"/></a>
 <br/>
 
 ## Connect with me:
