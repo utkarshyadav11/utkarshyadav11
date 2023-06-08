@@ -14,6 +14,7 @@
 - 💬 Ask me about **React , Next , JavaScript**
 
 - 📫 How to reach me **utkarshyadav6745@gmail.com**
+- 👨‍Frontend developer at I2e Consulting pvt.ltd
 
 
 
