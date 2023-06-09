@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://twitter.com/iutkarshyadav11" target="blank"><img src="https://img.shields.io/twitter/follow/iutkarshyadav11?logo=twitter&style=for-the-badge" alt="iutkarshyadav11" /></a> </p>
 
-- 🌱 I’m currently learning **Next and Vue.js**
+- 🌱 I’m currently learning **Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://utkarshyadav-web.web.app/](https://utkarshyadav-web.web.app/)
 
