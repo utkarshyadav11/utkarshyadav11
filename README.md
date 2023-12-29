@@ -1,7 +1,7 @@
 <img align="" width="950" height="550" src="https://miro.medium.com/v2/resize:fit:1360/0*gqO3slLmGb4mUeje.gif" alt="utkarshyadav11" />
 
 <h1 align="center">Hi 👋, I'm Utkarsh Yadav</h1>
-<h3 align="center">A passionate frontend UI developer from India</h3>
+<h3 align="center">A passionate frontend Web developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=utkarshyadav11&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshyadav11" /> </p>
 
