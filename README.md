@@ -7,11 +7,11 @@
 
 <p align="center"> <a href="https://twitter.com/iutkarshyadav11" target="blank"><img src="https://img.shields.io/twitter/follow/iutkarshyadav11?logo=twitter&style=for-the-badge" alt="iutkarshyadav11" /></a> </p>
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Docker, Kubernates**
 
-- 👨‍💻 All of my projects are available at [https://utkarshyadav-web.web.app/](https://utkarshyadav-web.web.app/)
+- 👨‍💻 All of my projects are available at [https://utkarshyadav-web.web.app/](https://utkarshyadav11.vercel.app/)
 
-- 💬 Ask me about **React , Next , JavaScript**
+- 💬 Ask me about **React & Next.js**
 
 - 📫 How to reach me **utkarshyadav6745@gmail.com**
 
