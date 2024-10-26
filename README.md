@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Docker, Kubernates**
 
-- 👨‍💻 All of my projects are available at [https://utkarshyadav-web.web.app/](https://utkarshyadav11.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://utkarshyadav11.vercel.app/](https://utkarshyadav11.vercel.app/)
 
 - 💬 Ask me about **React & Next.js**
 
