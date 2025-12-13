@@ -1,4 +1,4 @@
-<img align="" width="950" height="550" src="https://wallpapercave.com/wp/wp11846976.png" alt="utkarshyadav11" />
+<!-- <img align="" width="950" height="550" src="https://wallpapercave.com/wp/wp11846976.png" alt="utkarshyadav11" /> -->
 
 <h1 align="center">Hi 👋, I'm Utkarsh Yadav</h1>
 <h3 align="center">A passionate React Developer from India</h3>
